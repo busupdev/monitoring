@@ -77,19 +77,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/vso-profil.ru.ico",
     "slug": "vso-profil-lending",
     "status": "up",
-    "uptime": "3.55%",
-    "uptimeDay": "3.55%",
-    "uptimeWeek": "3.55%",
-    "uptimeMonth": "3.55%",
-    "uptimeYear": "3.55%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1206,
     "timeDay": 1206,
     "timeWeek": 1206,
     "timeMonth": 1206,
     "timeYear": 1206,
-    "dailyMinutesDown": {
-      "2024-07-10": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ANFI",
