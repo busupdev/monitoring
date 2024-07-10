@@ -7,14 +7,14 @@ sites:
     url: https://business-up.org
   - name: MON CHER CAPRISE
     url: https://monchercaprise.ru
-  - name: MON CHER CAPRISE
-    url: https://monchercaprise.ru
   - name: Скандинавский профиль
     url: https://scandicprofile.ru
   - name: Скандинавский профиль
     url: https://scandicprofile.ru
   - name: ВСО Профиль | Лендинг
     url: https://vso-profil.ru
+  - name: ANFI
+    url: https://anfiacademy.ru
     
     port: 80
     check: "tcp-ping"
