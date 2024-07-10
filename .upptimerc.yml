@@ -5,10 +5,17 @@ repo: monitoring # The name of this repository
 sites:
   - name: Business-Up
     url: https://business-up.org
-  - name: Yandex.ru
-    url: https://ya.ru
-  - name: Google
-    url: https://google.com
+  - name: MON CHER CAPRISE
+    url: https://monchercaprise.ru
+  - name: MON CHER CAPRISE
+    url: https://monchercaprise.ru
+  - name: Скандинавский профиль
+    url: https://scandicprofile.ru
+  - name: Скандинавский профиль
+    url: https://scandicprofile.ru
+  - name: ВСО Профиль | Лендинг
+    url: https://vso-profil.ru
+    
     port: 80
     check: "tcp-ping"
     ipv6: false
