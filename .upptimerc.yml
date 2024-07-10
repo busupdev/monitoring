@@ -7,7 +7,7 @@ sites:
     url: https://business-up.org
 
   - name: TestBusiness-Up
-    url: https://dev.business-up.org
+    url: https://business-up.org
     
   - name: MON CHER CAPRISE
     url: https://monchercaprise.ru
