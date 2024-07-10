@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/business-up.org.ico",
     "slug": "test-business-up",
     "status": "up",
-    "uptime": "12.37%",
-    "uptimeDay": "12.37%",
-    "uptimeWeek": "12.37%",
-    "uptimeMonth": "12.37%",
-    "uptimeYear": "12.37%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 611,
     "timeDay": 611,
     "timeWeek": 611,
     "timeMonth": 611,
     "timeYear": 611,
-    "dailyMinutesDown": {
-      "2024-07-10": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "MON CHER CAPRISE",
