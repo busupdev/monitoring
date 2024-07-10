@@ -4,72 +4,80 @@
     "url": "https://business-up.org",
     "icon": "https://icons.duckduckgo.com/ip3/business-up.org.ico",
     "slug": "business-up",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.59%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.59%",
+    "uptimeYear": "99.59%",
     "time": 2057,
     "timeDay": 2057,
     "timeWeek": 2057,
     "timeMonth": 2057,
     "timeYear": 2057,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-10": 0
+    }
   },
   {
     "name": "MON CHER CAPRISE",
     "url": "https://monchercaprise.ru",
     "icon": "https://icons.duckduckgo.com/ip3/monchercaprise.ru.ico",
     "slug": "mon-cher-caprise",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "98.87%",
+    "uptimeDay": "98.87%",
+    "uptimeWeek": "98.87%",
+    "uptimeMonth": "98.87%",
+    "uptimeYear": "98.87%",
     "time": 2170,
     "timeDay": 2170,
     "timeWeek": 2170,
     "timeMonth": 2170,
     "timeYear": 2170,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-10": 0
+    }
   },
   {
     "name": "Скандинавский профиль",
     "url": "https://scandicprofile.ru",
     "icon": "https://icons.duckduckgo.com/ip3/scandicprofile.ru.ico",
     "slug": "skandinavskij-profil",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.24%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.24%",
+    "uptimeMonth": "99.24%",
+    "uptimeYear": "99.24%",
     "time": 1576,
     "timeDay": 1576,
     "timeWeek": 1576,
     "timeMonth": 1576,
     "timeYear": 1576,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-10": 0
+    }
   },
   {
     "name": "ВСО Профиль | Лендинг",
     "url": "https://vso-profil.ru",
     "icon": "https://icons.duckduckgo.com/ip3/vso-profil.ru.ico",
     "slug": "vso-profil-lending",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.43%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.43%",
+    "uptimeMonth": "99.43%",
+    "uptimeYear": "99.43%",
     "time": 1059,
     "timeDay": 1059,
     "timeWeek": 1059,
     "timeMonth": 1059,
     "timeYear": 1059,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-10": 0
+    }
   },
   {
     "name": "ANFI",
@@ -77,18 +85,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/anfiacademy.ru.ico",
     "slug": "anfi",
     "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {
-      "2024-07-10": 1
-    }
+    "dailyMinutesDown": {}
   }
 ]
