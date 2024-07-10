@@ -41,7 +41,6 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: busupdev.github.io/monitoring
   baseUrl: /monitoring
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Business UP | Панель мониторинга
-  introTitle: "Мониторинг сайтов: защита вашего бизнеса от простоев."
-  introMessage: Ваш сайт еще не в списке? Или его вообще нет? [Свяжитесь с нами.](https://t.me/Konstantin100).
+  introTitle: "Мониторинг сайтов: защита вашего бизнеса от простоев"
+  introMessage: Ваш сайт еще не в списке? Или его вообще нет? [Свяжитесь с нами.](https://t.me/Konstantin100)
