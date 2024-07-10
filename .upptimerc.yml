@@ -5,30 +5,18 @@ repo: monitoring # The name of this repository
 sites:
   - name: Business-Up
     url: https://business-up.org
-    port: 80
-    check: "tcp-ping"
-    ipv6: false
+    
   - name: MON CHER CAPRISE
     url: https://monchercaprise.ru
-    port: 80
-    check: "tcp-ping"
-    ipv6: false
+    
   - name: Скандинавский профиль
     url: https://scandicprofile.ru
-    port: 80
-    check: "tcp-ping"
-    ipv6: false
+    
   - name: ВСО Профиль | Лендинг
     url: https://vso-profil.ru
-    port: 80
-    check: "tcp-ping"
-    ipv6: false
+    
   - name: ANFI
     url: https://anfiacademy.ru
-    port: 80
-    check: "tcp-ping"
-    ipv6: false
-    
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
