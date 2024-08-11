@@ -1,7 +1,7 @@
 url: https://business-up.org
-status: up
-code: 200
-responseTime: 1720
-lastUpdated: 2024-08-10T23:17:50.911Z
+status: down
+code: 500
+responseTime: 967
+lastUpdated: 2024-08-11T14:32:50.620Z
 startTime: 2024-07-10T18:38:03.152Z
 generator: Upptime <https://github.com/upptime/upptime>
