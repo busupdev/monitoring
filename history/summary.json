@@ -4,19 +4,19 @@
     "url": "https://business-up.org",
     "icon": "https://icons.duckduckgo.com/ip3/business-up.org.ico",
     "slug": "business-up",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.71%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
-    "time": 1895,
-    "timeDay": 1961,
-    "timeWeek": 1919,
-    "timeMonth": 1845,
-    "timeYear": 1895,
+    "time": 1898,
+    "timeDay": 2019,
+    "timeWeek": 1939,
+    "timeMonth": 1852,
+    "timeYear": 1898,
     "dailyMinutesDown": {
-      "2024-08-31": 4
+      "2024-08-31": 7
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://scandicprofile.ru",
     "icon": "https://icons.duckduckgo.com/ip3/scandicprofile.ru.ico",
     "slug": "skandinavskij-profil",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.97%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
     "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
-    "time": 1993,
-    "timeDay": 1846,
-    "timeWeek": 1987,
-    "timeMonth": 2036,
-    "timeYear": 1993,
+    "uptimeYear": "99.99%",
+    "time": 1999,
+    "timeDay": 2105,
+    "timeWeek": 2034,
+    "timeMonth": 2046,
+    "timeYear": 1999,
     "dailyMinutesDown": {
-      "2024-08-31": 3
+      "2024-08-31": 6
     }
   },
   {
@@ -80,19 +80,19 @@
     "url": "https://anfiacademy.ru",
     "icon": "https://icons.duckduckgo.com/ip3/anfiacademy.ru.ico",
     "slug": "anfi",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2103,
-    "timeDay": 2711,
-    "timeWeek": 2272,
-    "timeMonth": 2145,
-    "timeYear": 2103,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.68%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 2107,
+    "timeDay": 2520,
+    "timeWeek": 2279,
+    "timeMonth": 2150,
+    "timeYear": 2107,
     "dailyMinutesDown": {
-      "2024-08-31": 1
+      "2024-08-31": 5
     }
   },
   {
