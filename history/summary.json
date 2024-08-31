@@ -4,18 +4,20 @@
     "url": "https://business-up.org",
     "icon": "https://icons.duckduckgo.com/ip3/business-up.org.ico",
     "slug": "business-up",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.71%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1895,
     "timeDay": 1961,
     "timeWeek": 1919,
     "timeMonth": 1845,
     "timeYear": 1895,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-31": 4
+    }
   },
   {
     "name": "MON CHER CAPRISE",
@@ -40,18 +42,20 @@
     "url": "https://scandicprofile.ru",
     "icon": "https://icons.duckduckgo.com/ip3/scandicprofile.ru.ico",
     "slug": "skandinavskij-profil",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1993,
     "timeDay": 1846,
     "timeWeek": 1987,
     "timeMonth": 2036,
     "timeYear": 1993,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-31": 3
+    }
   },
   {
     "name": "ВСО Профиль [ Лендинг ]",
@@ -76,10 +80,10 @@
     "url": "https://anfiacademy.ru",
     "icon": "https://icons.duckduckgo.com/ip3/anfiacademy.ru.ico",
     "slug": "anfi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2103,
@@ -87,7 +91,9 @@
     "timeWeek": 2272,
     "timeMonth": 2145,
     "timeYear": 2103,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-31": 1
+    }
   },
   {
     "name": "AcademKids [ Основная сеть ]",
