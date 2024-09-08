@@ -40,18 +40,20 @@
     "url": "https://scandicprofile.ru",
     "icon": "https://icons.duckduckgo.com/ip3/scandicprofile.ru.ico",
     "slug": "skandinavskij-profil",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1984,
-    "timeDay": 2118,
-    "timeWeek": 1827,
-    "timeMonth": 1983,
-    "timeYear": 1984,
-    "dailyMinutesDown": {}
+    "time": 1981,
+    "timeDay": 1932,
+    "timeWeek": 1817,
+    "timeMonth": 1976,
+    "timeYear": 1981,
+    "dailyMinutesDown": {
+      "2024-09-08": 0
+    }
   },
   {
     "name": "ВСО Профиль [ Лендинг ]",
