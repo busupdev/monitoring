@@ -78,9 +78,9 @@
     "url": "https://anfiacademy.ru",
     "icon": "https://icons.duckduckgo.com/ip3/anfiacademy.ru.ico",
     "slug": "anfi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -89,7 +89,9 @@
     "timeWeek": 2213,
     "timeMonth": 2256,
     "timeYear": 2141,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-11": 0
+    }
   },
   {
     "name": "AcademKids [ Основная сеть ]",
