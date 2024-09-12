@@ -62,18 +62,16 @@
     "slug": "vso-profil-lending",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.79%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1053,
     "timeDay": 7982,
     "timeWeek": 2129,
     "timeMonth": 1261,
     "timeYear": 1053,
-    "dailyMinutesDown": {
-      "2024-09-11": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ANFI",
