@@ -22,19 +22,19 @@
     "url": "https://monchercaprise.ru",
     "icon": "https://icons.duckduckgo.com/ip3/monchercaprise.ru.ico",
     "slug": "mon-cher-caprise",
-    "status": "down",
-    "uptime": "99.90%",
-    "uptimeDay": "93.49%",
-    "uptimeWeek": "99.07%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.90%",
-    "time": 2354,
-    "timeDay": 1711,
-    "timeWeek": 2036,
-    "timeMonth": 2244,
-    "timeYear": 2354,
+    "status": "up",
+    "uptime": "99.84%",
+    "uptimeDay": "89.77%",
+    "uptimeWeek": "98.54%",
+    "uptimeMonth": "99.66%",
+    "uptimeYear": "99.84%",
+    "time": 2352,
+    "timeDay": 1769,
+    "timeWeek": 2042,
+    "timeMonth": 2241,
+    "timeYear": 2352,
     "dailyMinutesDown": {
-      "2024-09-14": 93
+      "2024-09-14": 147
     }
   },
   {
