@@ -22,18 +22,20 @@
     "url": "https://monchercaprise.ru",
     "icon": "https://icons.duckduckgo.com/ip3/monchercaprise.ru.ico",
     "slug": "mon-cher-caprise",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2401,
-    "timeDay": 2146,
-    "timeWeek": 2329,
-    "timeMonth": 2348,
-    "timeYear": 2401,
-    "dailyMinutesDown": {}
+    "time": 2385,
+    "timeDay": 1638,
+    "timeWeek": 2179,
+    "timeMonth": 2308,
+    "timeYear": 2385,
+    "dailyMinutesDown": {
+      "2024-09-14": 0
+    }
   },
   {
     "name": "Скандинавский профиль",
