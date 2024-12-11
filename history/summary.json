@@ -105,9 +105,9 @@
     "url": "https://anfiacademy.ru",
     "icon": "https://icons.duckduckgo.com/ip3/anfiacademy.ru.ico",
     "slug": "anfi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -117,6 +117,7 @@
     "timeMonth": 2252,
     "timeYear": 2118,
     "dailyMinutesDown": {
+      "2024-12-11": 0,
       "2024-10-03": 59,
       "2024-09-18": 28,
       "2024-09-11": 21
