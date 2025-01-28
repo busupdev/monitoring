@@ -4,9 +4,9 @@
     "url": "https://business-up.org",
     "icon": "https://icons.duckduckgo.com/ip3/business-up.org.ico",
     "slug": "business-up",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -16,6 +16,7 @@
     "timeMonth": 2063,
     "timeYear": 1978,
     "dailyMinutesDown": {
+      "2025-01-28": 0,
       "2024-11-21": 22,
       "2024-10-03": 18
     }
