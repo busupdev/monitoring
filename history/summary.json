@@ -25,10 +25,10 @@
     "url": "https://medfnpr.ru/",
     "icon": "https://icons.duckduckgo.com/ip3/medfnpr.ru.ico",
     "slug": "medfnpr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1929,
@@ -36,7 +36,9 @@
     "timeWeek": 1957,
     "timeMonth": 1897,
     "timeYear": 1929,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-07": 1
+    }
   },
   {
     "name": "MON CHER CAPRISE",
