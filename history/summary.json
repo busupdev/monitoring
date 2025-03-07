@@ -25,19 +25,19 @@
     "url": "https://medfnpr.ru/",
     "icon": "https://icons.duckduckgo.com/ip3/medfnpr.ru.ico",
     "slug": "medfnpr",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1929,
-    "timeDay": 1754,
-    "timeWeek": 1957,
-    "timeMonth": 1897,
-    "timeYear": 1929,
+    "time": 1927,
+    "timeDay": 1742,
+    "timeWeek": 1928,
+    "timeMonth": 1892,
+    "timeYear": 1927,
     "dailyMinutesDown": {
-      "2025-03-07": 1
+      "2025-03-07": 8
     }
   },
   {
