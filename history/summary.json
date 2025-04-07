@@ -26,10 +26,10 @@
     "url": "https://medfnpr.ru/",
     "icon": "https://icons.duckduckgo.com/ip3/medfnpr.ru.ico",
     "slug": "medfnpr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "98.82%",
     "uptimeYear": "99.78%",
     "time": 1924,
@@ -38,6 +38,7 @@
     "timeMonth": 1906,
     "timeYear": 1924,
     "dailyMinutesDown": {
+      "2025-04-07": 1,
       "2025-03-29": 395,
       "2025-03-28": 120
     }
@@ -50,7 +51,7 @@
     "status": "up",
     "uptime": "99.50%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.49%",
+    "uptimeWeek": "99.67%",
     "uptimeMonth": "99.56%",
     "uptimeYear": "99.50%",
     "time": 2416,
